@@ -1,0 +1,18 @@
+.message {
+    width: 300px;
+
+}
+
+.person {
+    font-size: 15px;
+    color: gray;
+    margin-bottom: 2px;
+}
+
+.text {
+    border-radius: 5px;
+    background-color: rgb(32, 189, 155);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
